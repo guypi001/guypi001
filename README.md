@@ -22,11 +22,11 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/NicolasBrondin/peek"><b>PolyTchams : One of my biggest project</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/guypi001/peek?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/guypi001/peek?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/guypi001/peek?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/guypi001/peek?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/guypi001/polyTchams"><b>PolyTchams : One of my biggest project</b></a></td>
+      <td><img alt="Stars" src="https://github.com/guypi001/polyTchams?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://github.com/guypi001/polyTchams?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://github.com/guypi001/polyTchams?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://github.com/guypi001/polyTchams?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
