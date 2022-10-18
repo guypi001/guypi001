@@ -5,8 +5,7 @@
 </p>
 <h3>Various techs I use</h3>
 <p>
-  <a href="https://github.com/guypi001">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guypi001&show_icons=true&theme=merko&count_private=true" alt="Guypi's github stats" />
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guypi001&theme=merko&layout=compact&hide=html,css" alt="Guypi's github top languages" />
 
 </p>
