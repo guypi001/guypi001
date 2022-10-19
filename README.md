@@ -4,7 +4,7 @@
   <strong>Hello, I'm Guy-Parfait,</strong> in computer science engineering from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Rennes, France</b>. I recently discovered the english term "wordsmith" <img src="https://cdn-icons-png.flaticon.com/512/2670/2670296.png" width="20" style="vertical-align: bottom;"/>, and I think it describes me quite well.
 </p>
 <h3>Various techs I use</h3>
-<p  align="center">
+<p align="center">
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guypi001&theme=merko&layout=compact&hide=html,css" alt="Guypi's github top languages" />
 
